@@ -31,7 +31,6 @@ Your app is ready to be deployed!
 
 ### Deployment
 
-This section has moved here: https://single-page-application-paballo-hucsjh5h9-pabimathipa.vercel.app/
-
+This section has moved here: https://single-page-application-paballo-git-main-pabimathipa.vercel.app
 
 
