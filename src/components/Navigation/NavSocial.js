@@ -11,7 +11,7 @@ const NavSocial = () => {
                 <img src={Linkedin} alt="linkedin" />
             </a>
             <a
-                href="https://github.com/PabiMathipa"
+                href="https://github.com/PabiMathipa/single-page-application-paballo"
                 target="_blank"
                 rel="noreferrer"
             >

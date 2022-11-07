@@ -4,7 +4,7 @@ const Stack = () => {
     return (
         <React.Fragment>
             <h3 className="title-font black-text ">
-                These are some of the technologies and tools I have used:
+                These are some of the technologies and tools I have used before:
             </h3>
             <ol className="stack-section ">
                 <li>Python</li>
