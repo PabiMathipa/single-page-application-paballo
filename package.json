@@ -35,7 +35,7 @@
     "development": ["last 1 chrome version", "last 1 firefox version", "last 1 safari version"]
   },
   "engines": {
-    "node": "18.x"
+    "node": "24.x"
   },
   "overrides": {
     "postcss": "^8.4.47",
