@@ -43,7 +43,8 @@
     ]
   },
   "devDependencies": {
-    "sass": "^1.56.0"
+    "sass": "^1.56.0",
+    "nth-check": ">=2.0.1"
   },
   "overrides": {
     "postcss": "^8.4.47",
